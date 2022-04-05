@@ -32,7 +32,7 @@ func uno(numero int) int{
 ////////////////////////////////////////
 
 func dos(numero int) (int, bool) {
-	if numero ==1 {
+	if numero == 1 {
 		return 5, false
 	} else {
 		return 10, true
